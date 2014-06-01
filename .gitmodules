@@ -1,0 +1,267 @@
+[submodule "alsa"]
+	path = alsa
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "barebones.js"]
+	path = barebones.js
+	url = https://github.com/williame/barebones.js.git
+[submodule "bikebook"]
+	path = bikebook
+	url = https://github.com/bikeindex/bikebook.git
+[submodule "brackets"]
+	path = brackets
+	url = https://github.com/adobe/brackets.git
+[submodule "bup"]
+	path = bup
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "chmsee"]
+	path = chmsee
+	url = https://github.com/jungleji/chmsee.git
+[submodule "clearskies"]
+	path = clearskies
+	url = https://github.com/jewel/clearskies.git
+[submodule "Clusterator"]
+	path = Clusterator
+	url = https://github.com/Hatfull/Clusterator.git
+[submodule "CodeIgniter"]
+	path = CodeIgniter
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "ColorArt"]
+	path = ColorArt
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "DB5"]
+	path = DB5
+	url = https://github.com/quartermaster/DB5.git
+[submodule "dbv"]
+	path = dbv
+	url = https://github.com/victorstanciu/dbv.git
+[submodule "dokku"]
+	path = dokku
+	url = https://github.com/progrium/dokku.git
+[submodule "earth"]
+	path = earth
+	url = https://github.com/cambecc/earth.git
+[submodule "ebay4r"]
+	path = ebay4r
+	url = git://rubyforge.org/ebay4r.git
+[submodule "enyo"]
+	path = enyo
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "exfat-nofuse"]
+	path = exfat-nofuse
+	url = git://github.com/rxrz/exfat-nofuse.git
+[submodule "firesheep"]
+	path = firesheep
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "fisa"]
+	path = fisa
+	url = https://github.com/konklone/fisa.git
+[submodule "flukeout.github.io"]
+	path = flukeout.github.io
+	url = https://github.com/flukeout/flukeout.github.io.git
+[submodule "flynn"]
+	path = flynn
+	url = https://github.com/flynn/flynn.git
+[submodule "Freader"]
+	path = Freader
+	url = https://github.com/geekuillaume/Freader.git
+[submodule "FreeVMS"]
+	path = FreeVMS
+	url = git://www.systella.fr/FreeVMS.git
+[submodule "funcunit"]
+	path = funcunit
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "Ghost"]
+	path = Ghost
+	url = https://github.com/TryGhost/Ghost.git
+[submodule "gifsockets"]
+	path = gifsockets
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "gitchain"]
+	path = gitchain
+	url = https://github.com/gitchain/gitchain.git
+[submodule "gitflow"]
+	path = gitflow
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "git"]
+	path = git
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "gitstats"]
+	path = gitstats
+	url = https://github.com/hoxu/gitstats.git
+[submodule "glibc"]
+	path = glibc
+	url = git://sourceware.org/git/glibc.git
+[submodule "gnash"]
+	path = gnash
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "gnome-continuous"]
+	path = gnome-continuous
+	url = git://git.gnome.org/gnome-continuous
+[submodule "google-bootstrap"]
+	path = google-bootstrap
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "Gooo"]
+	path = Gooo
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "gopro"]
+	path = gopro
+	url = https://github.com/kschzt/gopro.git
+[submodule "gource"]
+	path = gource
+	url = https://github.com/acaudwell/Gource.git
+[submodule "greenery"]
+	path = greenery
+	url = git://github.com/ferno/greenery.git
+[submodule "groovebasin"]
+	path = groovebasin
+	url = https://github.com/andrewrk/groovebasin.git
+[submodule "htmltree"]
+	path = htmltree
+	url = https://github.com/peterbe/htmltree.git
+[submodule "https-everywhere"]
+	path = https-everywhere
+	url = https://github.com/EFForg/https-everywhere.git
+[submodule "ISS-photo-locations"]
+	path = ISS-photo-locations
+	url = https://github.com/natronics/ISS-photo-locations.git
+[submodule "javascriptmvc"]
+	path = javascriptmvc
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "jmat"]
+	path = jmat
+	url = https://github.com/lvandeve/jmat.git
+[submodule "jQuery-menu-aim"]
+	path = jQuery-menu-aim
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "jquerymx"]
+	path = jquerymx
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "linguist"]
+	path = linguist
+	url = https://github.com/github/linguist.git
+[submodule "linux"]
+	path = linux
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "linux-stable"]
+	path = linux-stable
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git
+[submodule "localtunnel"]
+	path = localtunnel
+	url = https://github.com/defunctzombie/localtunnel.git
+[submodule "ltp"]
+	path = ltp
+	url = https://github.com/linux-test-project/ltp.git
+[submodule "man-pages"]
+	path = man-pages
+	url = git://git.kernel.org/pub/scm/docs/man-pages/man-pages.git
+[submodule "mediawiki-svn"]
+	path = mediawiki-svn
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "musl"]
+	path = musl
+	url = git://git.musl-libc.org/musl
+[submodule "mutrace"]
+	path = mutrace
+	url = git://git.0pointer.de/mutrace.git
+[submodule "ngrok"]
+	path = ngrok
+	url = https://github.com/inconshreveable/ngrok.git
+[submodule "ofono"]
+	path = ofono
+	url = git://git.kernel.org/pub/scm/network/ofono/ofono.git
+[submodule "ostree"]
+	path = ostree
+	url = git://git.gnome.org/ostree
+[submodule "pass"]
+	path = pass
+	url = http://git.zx2c4.com/password-store
+[submodule "phpfmt"]
+	path = phpfmt
+	url = https://github.com/beefsack/phpfmt.git
+[submodule "phpunit"]
+	path = phpunit
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "polarssl"]
+	path = polarssl
+	url = https://github.com/polarssl/polarssl.git
+[submodule "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"]
+	path = Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+	url = git://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git
+[submodule "python-patterns"]
+	path = python-patterns
+	url = https://github.com/faif/python-patterns.git
+[submodule "qemu"]
+	path = qemu
+	url = git://git.qemu.org/qemu.git
+[submodule "q"]
+	path = q
+	url = https://github.com/harelba/q.git
+[submodule "Quicksilver"]
+	path = Quicksilver
+	url = https://github.com/quicksilver/Quicksilver.git
+[submodule "redo"]
+	path = redo
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "rvm"]
+	path = rvm
+	url = https://github.com/wayneeseguin/rvm.git
+[submodule "scrapy"]
+	path = scrapy
+	url = https://github.com/scrapy/scrapy.git
+[submodule "sparseFiltering"]
+	path = sparseFiltering
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "steal"]
+	path = steal
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "syn"]
+	path = syn
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "tablesaw"]
+	path = tablesaw
+	url = https://github.com/filamentgroup/tablesaw.git
+[submodule "theseus"]
+	path = theseus
+	url = https://github.com/adobe-research/theseus.git
+[submodule "tmux-extra"]
+	path = tmux-extra
+	url = https://github.com/brandur/tmux-extra.git
+[submodule "totem-plugin-airplay"]
+	path = totem-plugin-airplay
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "trollop"]
+	path = trollop
+	url = git://gitorious.org/trollop/mainline.git
+[submodule "tt-rss"]
+	path = tt-rss
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "unio"]
+	path = unio
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "vagrant"]
+	path = vagrant
+	url = https://github.com/mitchellh/vagrant.git
+[submodule "viewgit"]
+	path = viewgit
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "VimSpeak"]
+	path = VimSpeak
+	url = +refs/heads/*:refs/remotes/origin/*
+[submodule "XOWA-Addon"]
+	path = XOWA-Addon
+	url = https://github.com/piotrex/XOWA-Addon.git
+[submodule "xpwn"]
+	path = xpwn
+	url = git://github.com/planetbeing/xpwn.git
+[submodule "fmdb"]
+	path = fmdb
+	url = https://github.com/ccgus/fmdb.git
+[submodule "phpmyadmin"]
+	path = phpmyadmin
+	url = git://github.com/phpmyadmin/phpmyadmin
+[submodule "WebKit"]
+	path = WebKit
+	url = git://git.webkit.org/WebKit.git
+[submodule "homesick"]
+	path = homesick
+	url = https://github.com/technicalpickles/homesick.git
