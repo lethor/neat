@@ -265,3 +265,6 @@
 [submodule "homesick"]
 	path = homesick
 	url = https://github.com/technicalpickles/homesick.git
+[submodule "pry"]
+	path = pry
+	url = https://github.com/pry/pry.git
