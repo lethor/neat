@@ -271,3 +271,6 @@
 [submodule "card"]
 	path = card
 	url = https://github.com/jessepollak/card.git
+[submodule "compneuro"]
+	path = compneuro
+	url = https://github.com/robclewley/compneuro.git
