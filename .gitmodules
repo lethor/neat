@@ -268,3 +268,6 @@
 [submodule "pry"]
 	path = pry
 	url = https://github.com/pry/pry.git
+[submodule "card"]
+	path = card
+	url = https://github.com/jessepollak/card.git
