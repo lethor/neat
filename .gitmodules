@@ -139,12 +139,6 @@
 [submodule "linguist"]
 	path = linguist
 	url = https://github.com/github/linguist.git
-[submodule "linux"]
-	path = linux
-	url = +refs/heads/*:refs/remotes/origin/*
-[submodule "linux-stable"]
-	path = linux-stable
-	url = git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git
 [submodule "localtunnel"]
 	path = localtunnel
 	url = https://github.com/defunctzombie/localtunnel.git
