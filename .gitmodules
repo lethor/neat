@@ -7,9 +7,6 @@
 [submodule "bikebook"]
 	path = bikebook
 	url = https://github.com/bikeindex/bikebook.git
-[submodule "brackets"]
-	path = brackets
-	url = https://github.com/adobe/brackets.git
 [submodule "bup"]
 	path = bup
 	url = +refs/heads/*:refs/remotes/origin/*
