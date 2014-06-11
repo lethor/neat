@@ -274,3 +274,6 @@
 [submodule "drush"]
 	path = drush
 	url = https://github.com/drush-ops/drush.git
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/github/gitignore.git
