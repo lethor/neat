@@ -286,3 +286,6 @@
 [submodule "AllSeeingEye"]
 	path = AllSeeingEye
 	url = https://github.com/idibidiart/AllSeeingEye.git
+[submodule "aIRChat"]
+	path = aIRChat
+	url = https://github.com/redwire/aIRChat.git
