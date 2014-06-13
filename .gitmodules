@@ -283,3 +283,6 @@
 [submodule "scotus-servo"]
 	path = scotus-servo
 	url = https://github.com/vzvenyach/scotus-servo.git
+[submodule "AllSeeingEye"]
+	path = AllSeeingEye
+	url = https://github.com/idibidiart/AllSeeingEye.git
