@@ -289,3 +289,6 @@
 [submodule "aIRChat"]
 	path = aIRChat
 	url = https://github.com/redwire/aIRChat.git
+[submodule "varnish"]
+	path = varnish
+	url = git://git.varnish-cache.org/varnish-cache
