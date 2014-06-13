@@ -277,3 +277,6 @@
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/github/gitignore.git
+[submodule "progit"]
+	path = progit
+	url = https://github.com/progit/progit.git
