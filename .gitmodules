@@ -292,3 +292,6 @@
 [submodule "varnish"]
 	path = varnish
 	url = git://git.varnish-cache.org/varnish-cache
+[submodule "OfflineReverseGeocode"]
+	path = OfflineReverseGeocode
+	url = https://github.com/AReallyGoodName/OfflineReverseGeocode.git
