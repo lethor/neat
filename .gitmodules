@@ -295,3 +295,6 @@
 [submodule "OfflineReverseGeocode"]
 	path = OfflineReverseGeocode
 	url = https://github.com/AReallyGoodName/OfflineReverseGeocode.git
+[submodule "percol"]
+	path = percol
+	url = https://github.com/mooz/percol.git
