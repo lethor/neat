@@ -301,3 +301,18 @@
 [submodule "httpie"]
 	path = httpie
 	url = https://github.com/jakubroztocil/httpie.git
+[submodule "osx_setup.md/millermedeiros"]
+	path = osx_setup.md/millermedeiros
+	url = https://gist.github.com/6615994.git
+[submodule "osx_setup.md/lucasmotta"]
+	path = osx_setup.md/lucasmotta
+	url = https://gist.github.com/a4e8353adebd659cef05.git
+[submodule "osx_setup.md/gabrielalmeida"]
+	path = osx_setup.md/gabrielalmeida
+	url = https://gist.github.com/8778384.git
+[submodule "osx_setup.md/mrpeterpeter"]
+	path = osx_setup.md/mrpeterpeter
+	url = https://gist.github.com/8063900.git
+[submodule "osx_setup.md/zenorocha"]
+	path = osx_setup.md/zenorocha
+	url = https://gist.github.com/7159780.git
