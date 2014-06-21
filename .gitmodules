@@ -316,3 +316,6 @@
 [submodule "osx_setup.md/zenorocha"]
 	path = osx_setup.md/zenorocha
 	url = https://gist.github.com/7159780.git
+[submodule "guides"]
+	path = guides
+	url = https://github.com/thoughtbot/guides.git
