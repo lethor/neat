@@ -319,3 +319,6 @@
 [submodule "guides"]
 	path = guides
 	url = https://github.com/thoughtbot/guides.git
+[submodule "jquery-tiny-pubsub"]
+	path = jquery-tiny-pubsub
+	url = https://github.com/cowboy/jquery-tiny-pubsub.git
