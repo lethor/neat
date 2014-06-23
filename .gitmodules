@@ -322,3 +322,6 @@
 [submodule "jquery-tiny-pubsub"]
 	path = jquery-tiny-pubsub
 	url = https://github.com/cowboy/jquery-tiny-pubsub.git
+[submodule "TaxiNYC2013"]
+	path = TaxiNYC2013
+	url = https://github.com/tswanson/TaxiNYC2013.git
