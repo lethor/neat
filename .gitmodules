@@ -325,3 +325,6 @@
 [submodule "TaxiNYC2013"]
 	path = TaxiNYC2013
 	url = https://github.com/tswanson/TaxiNYC2013.git
+[submodule "NodeBB"]
+	path = NodeBB
+	url = https://github.com/NodeBB/NodeBB.git
