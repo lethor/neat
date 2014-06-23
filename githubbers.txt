@@ -46,3 +46,4 @@ travis-ci
 twbs
 uutils
 visionmedia
+Yelp
