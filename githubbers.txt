@@ -27,6 +27,7 @@ laravel
 LearnBoost
 LightTable
 llvm-mirror
+lotus
 mathiasbynens
 matz
 millermedeiros
