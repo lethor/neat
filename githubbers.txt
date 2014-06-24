@@ -15,6 +15,7 @@ dhh
 dotcloud
 facebook
 flynn
+freebsd
 fuelphp
 google
 gorilla
