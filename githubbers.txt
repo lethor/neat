@@ -33,6 +33,7 @@ mathiasbynens
 matz
 millermedeiros
 netflix
+nixos
 noflo
 opscode
 opscode-cookbooks
