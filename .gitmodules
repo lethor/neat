@@ -262,9 +262,6 @@
 [submodule "compneuro"]
 	path = compneuro
 	url = https://github.com/robclewley/compneuro.git
-[submodule "openbsd-src"]
-	path = openbsd-src
-	url = git@bitbucket.org:braindamaged/openbsd-src.git
 [submodule "codeswarm"]
 	path = codeswarm
 	url = http://codeswarm.googlecode.com/svn
