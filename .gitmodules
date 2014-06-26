@@ -274,9 +274,6 @@
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/github/gitignore.git
-[submodule "progit"]
-	path = progit
-	url = https://github.com/progit/progit.git
 [submodule "scotus-servo"]
 	path = scotus-servo
 	url = https://github.com/vzvenyach/scotus-servo.git
