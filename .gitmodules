@@ -322,6 +322,3 @@
 [submodule "NodeBB"]
 	path = NodeBB
 	url = https://github.com/NodeBB/NodeBB.git
-[submodule "progit"]
-	path = progit
-	url = https://github.com/progit/progit.git
