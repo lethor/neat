@@ -322,3 +322,6 @@
 [submodule "NodeBB"]
 	path = NodeBB
 	url = https://github.com/NodeBB/NodeBB.git
+[submodule "plos_taxonomy"]
+	path = plos_taxonomy
+	url = https://github.com/arfon/plos_taxonomy.git
