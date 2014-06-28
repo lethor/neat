@@ -325,3 +325,6 @@
 [submodule "plos_taxonomy"]
 	path = plos_taxonomy
 	url = https://github.com/arfon/plos_taxonomy.git
+[submodule "mortar"]
+	path = mortar
+	url = https://github.com/mozilla/mortar.git
