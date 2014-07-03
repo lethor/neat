@@ -328,3 +328,6 @@
 [submodule "mortar"]
 	path = mortar
 	url = https://github.com/mozilla/mortar.git
+[submodule "firefox-client"]
+	path = firefox-client
+	url = https://github.com/harthur/firefox-client.git
