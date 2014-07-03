@@ -331,3 +331,6 @@
 [submodule "firefox-client"]
 	path = firefox-client
 	url = https://github.com/harthur/firefox-client.git
+[submodule "cvsps"]
+	path = cvsps
+	url = https://github.com/trcjr/cvsps.git
