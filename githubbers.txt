@@ -35,9 +35,11 @@ millermedeiros
 netflix
 nixos
 noflo
+openacs
 opscode
 opscode-cookbooks
 packetbeat
+project-open
 puppetlabs
 rails
 rvirding
