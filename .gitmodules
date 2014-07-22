@@ -343,3 +343,6 @@
 [submodule "swiftz"]
 	path = swiftz
 	url = https://github.com/maxpow4h/swiftz.git
+[submodule "nupic"]
+	path = nupic
+	url = https://github.com/numenta/nupic.git
