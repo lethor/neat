@@ -331,3 +331,6 @@
 [submodule "cvsps"]
 	path = cvsps
 	url = https://github.com/trcjr/cvsps.git
+[submodule "progressed.io"]
+	path = progressed.io
+	url = https://github.com/fehmicansaglam/progressed.io.git
