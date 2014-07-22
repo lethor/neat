@@ -37,6 +37,7 @@ millermedeiros
 netflix
 nixos
 noflo
+numenta
 openacs
 opscode
 opscode-cookbooks
