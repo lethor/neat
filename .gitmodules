@@ -334,3 +334,6 @@
 [submodule "progressed.io"]
 	path = progressed.io
 	url = https://github.com/fehmicansaglam/progressed.io.git
+[submodule "rome"]
+	path = rome
+	url = https://github.com/bevacqua/rome.git
