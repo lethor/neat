@@ -337,3 +337,6 @@
 [submodule "rome"]
 	path = rome
 	url = https://github.com/bevacqua/rome.git
+[submodule "tmuxomatic"]
+	path = tmuxomatic
+	url = https://github.com/oxidane/tmuxomatic.git
