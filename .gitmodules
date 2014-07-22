@@ -340,3 +340,6 @@
 [submodule "tmuxomatic"]
 	path = tmuxomatic
 	url = https://github.com/oxidane/tmuxomatic.git
+[submodule "swiftz"]
+	path = swiftz
+	url = https://github.com/maxpow4h/swiftz.git
