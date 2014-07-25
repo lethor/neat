@@ -346,3 +346,6 @@
 [submodule "nupic"]
 	path = nupic
 	url = https://github.com/numenta/nupic.git
+[submodule "streisand"]
+	path = streisand
+	url = https://github.com/jlund/streisand.git
