@@ -166,9 +166,6 @@
 [submodule "pass"]
 	path = pass
 	url = http://git.zx2c4.com/password-store
-[submodule "phpfmt"]
-	path = phpfmt
-	url = https://github.com/beefsack/phpfmt.git
 [submodule "phpunit"]
 	path = phpunit
 	url = +refs/heads/*:refs/remotes/origin/*
