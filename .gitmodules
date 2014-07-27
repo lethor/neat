@@ -346,3 +346,6 @@
 [submodule "streisand"]
 	path = streisand
 	url = https://github.com/jlund/streisand.git
+[submodule "elvish"]
+	path = elvish
+	url = https://github.com/xiaq/elvish.git
