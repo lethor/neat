@@ -26,6 +26,7 @@ hoodiehq
 hw-cookbooks
 ibdknox
 jashkenas
+JuliaOpt
 laravel
 LearnBoost
 LightTable
