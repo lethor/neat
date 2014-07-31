@@ -352,3 +352,6 @@
 [submodule "ranger"]
 	path = ranger
 	url = git://git.savannah.nongnu.org/ranger.git
+[submodule "coreboot"]
+	path = coreboot
+	url = http://review.coreboot.org/p/coreboot.git
