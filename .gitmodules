@@ -358,3 +358,6 @@
 [submodule "gnome-builder"]
 	path = gnome-builder
 	url = https://github.com/chergert/gnome-builder.git
+[submodule "transit-format"]
+	path = transit-format
+	url = https://github.com/cognitect/transit-format.git
