@@ -19,6 +19,7 @@ facebook
 flynn
 freebsd
 fuelphp
+golang
 google
 gorilla
 gregkh
